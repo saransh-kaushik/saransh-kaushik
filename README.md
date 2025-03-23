@@ -5,8 +5,8 @@ I'm a **Computer Science student** passionate about **building impactful tech so
 ## 🔧 Tech Stack & Skills
 - **Programming Languages**: Python, Java, .NET, C++, PowerShell, TypeScript, Swift
 - **Frameworks & Libraries**: Langchain, Chroma DB, LlamaIndex, Hugging Face, Flask, Streamlit, Django, 
-- **Expertise**: Machine Learning (Regression, RAG), AI-based Virtual Assistants, Speech Recognition
-- **Platforms**: Windows, iOS, Linux, Docker
+- **Expertise**: Machine Learning, RAG, AI-based Virtual Assistants, Speech Recognition
+- **Platforms**: Windows, iOS, Linux, Docker, Azure
 
 ---
 

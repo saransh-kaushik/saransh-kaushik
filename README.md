@@ -3,10 +3,10 @@
 I'm a **Computer Science student** passionate about **building impactful tech solutions**. My expertise spans across multiple domains, from **machine learning** and **AI-driven systems** to **embedded programming** and **speech recognition**.
 
 ## 🔧 Tech Stack & Skills
-- **Programming Languages**: Python, Java, .NET, C++, PowerShell
-- **Frameworks & Libraries**: Langchain, Chroma DB, LlamaIndex, Hugging Face, Flask, Streamlit
+- **Programming Languages**: Python, Java, .NET, C++, PowerShell, TypeScript, Swift
+- **Frameworks & Libraries**: Langchain, Chroma DB, LlamaIndex, Hugging Face, Flask, Streamlit, Django, 
 - **Expertise**: Machine Learning (Regression, RAG), AI-based Virtual Assistants, Speech Recognition
-- **Platforms**: Windows, iOS
+- **Platforms**: Windows, iOS, Linux, Docker
 
 ---
 
@@ -18,10 +18,6 @@ I'm a **Computer Science student** passionate about **building impactful tech so
 
 ---
 
-## 💡 Other Interests
-- When I’m not coding, I enjoy creating **Anime Music Videos (AMVs)**. It’s a way for me to blend creativity with my tech skills in video editing.
-
----
 
 ## 🔗 Connect with Me
 - GitHub is where I showcase my work and share my journey. Feel free to dive into my repos, open an issue, or reach out for collaboration!
